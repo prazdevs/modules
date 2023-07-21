@@ -29,5 +29,5 @@
     "ofetch": "^1.0.1",
     "typescript": "^4.9.5"
   },
-  "packageManager": "pnpm@7.32.4"
+  "packageManager": "pnpm@8.6.9"
 }
