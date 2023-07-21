@@ -24,10 +24,10 @@
     "eslint": "^8.34.0",
     "globby": "^13.1.4",
     "hasha": "^5.2.2",
-    "jiti": "^1.17.2",
+    "jiti": "^1.19.1",
     "js-yaml": "^4.1.0",
     "ofetch": "^1.0.1",
     "typescript": "^4.9.5"
   },
-  "packageManager": "pnpm@7.32.4"
+  "packageManager": "pnpm@7.33.5"
 }
